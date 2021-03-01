@@ -9,6 +9,16 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* HEADER: Created header element for top header/page-nav  */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
@@ -25,6 +35,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+/* NAV: Created nav container for page naviagtion links */
 nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -41,15 +52,7 @@ nav ul li {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
-}
-
+/* HERO: Hero image in container  */
 .hero {
   height: 800px;
   width: 100%;
@@ -59,22 +62,41 @@ p {
   background-position: center;
 }
 
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
-
+/* MAIN: main content (company divisions) moved to article tags */
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+article {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+article h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+article img {
+  max-height: 200px;
+}
+
+article img .float-left {
+  float: left;
+  margin-right: 25px;
+}
+
+article img .float-right {
+  float: right;
+  margin-left: 25px;
+}
+
+/* SIDEBAR: cleaned up and moved into aside element */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -101,23 +123,7 @@ aside {
   max-width: 150px;
 }
 
-article {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-article img {
-  max-height: 200px;
-}
-
-article h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
+/* FOOTER: removed heading as didnt seem appropraite down here, not sure if span was best choice */
 footer {
   padding: 30px;
   clear: both;
@@ -125,6 +131,6 @@ footer {
   text-align: center;
 }
 
-footer h4 {
+footer span {
   font-size: 20px;
 }
