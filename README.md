@@ -4,9 +4,9 @@ Refactor a given example to make it more accessible.
 
 ## Page Link
 
-Website can be found on GitHub Pages Here: [https://daveholst.github.io/homework-week1-accessibility/]
+Website can be found on GitHub Pages Here: https://daveholst.github.io/homework-week1-accessibility/
 
-## Screenshot TODO: Add screenshot
+## Screenshot TODO
 
 ### Complete Page
 
@@ -96,3 +96,4 @@ You are required to submit the following for review:
 
 - Changed CSS and HTML files to 2 space identation. Not sure if this is acceptable in industry?
 - Changed image size/quality to speed up pageload.
+- Still failing some accessbility check on contrast on sidebar. Appears to be pretty high contrast ratio. Would have to consult with client to change colour on this.
