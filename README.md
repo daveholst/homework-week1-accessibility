@@ -1,4 +1,4 @@
-# Homework Week 1 Accessibility - HTML, CSS, and Git: Code Refactor
+# Homework Week 1 Accessibility: Code Refactor - HTML, CSS, and Git
 
 Refactor a given example to make it more accessible.
 
@@ -78,4 +78,5 @@ You are required to submit the following for review:
 
 ## Notes
 
----
+- Changed CSS and HTML files to 2 space identation. Not sure if this is acceptable in industry?
+- ***
