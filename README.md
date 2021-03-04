@@ -6,7 +6,7 @@ Refactor a given example to make it more accessible.
 
 Website can be found on GitHub Pages Here: https://daveholst.github.io/homework-week1-accessibility/
 
-## Screenshot TODO
+## Screenshot
 
 ### Complete Page
 
