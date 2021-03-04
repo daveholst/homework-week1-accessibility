@@ -70,7 +70,7 @@ This homework is graded based on the following criteria:
 
 - [x] Application deployed at live URL.
 - [x] Application loads with no errors. -- only favicon error, one was not provided
-- [ ] Application GitHub URL submitted.
+- [x] Application GitHub URL submitted.
 - [x] GitHub repository contains application code.
 
 ### Application Quality: 15%
@@ -89,8 +89,8 @@ This homework is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-- [ ] The URL of the deployed application.
-- [ ] The URL of the GitHub repository, with a unique name and a README that describes the project.
+- [x] The URL of the deployed application.
+- [x] The URL of the GitHub repository, with a unique name and a README that describes the project.
 
 ## Notes
 
